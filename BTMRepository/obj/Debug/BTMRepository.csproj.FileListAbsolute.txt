@@ -1,0 +1,39 @@
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\BTMRepository.dll.config
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\BTMRepository.dll
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\BTMRepository.pdb
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\BTMEntity.dll
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\EntityFramework.dll
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\BTMEntity.pdb
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\EntityFramework.xml
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\obj\Debug\BTMRepository.csprojResolveAssemblyReference.cache
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\obj\Debug\BTMRepository.dll
+C:\Users\SUJON\Desktop\Online Bus Ticket Management\BTMRepository\obj\Debug\BTMRepository.pdb
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.dll.config
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.dll
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.pdb
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMEntity.dll
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.dll
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMEntity.pdb
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.xml
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.csprojResolveAssemblyReference.cache
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.csproj.CoreCompileInputs.cache
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.dll
+C:\Users\pial0\Documents\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.pdb
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.dll.config
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.dll
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMRepository.pdb
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMEntity.dll
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.dll
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.dll
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\BTMEntity.pdb
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.xml
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\bin\Debug\EntityFramework.SqlServer.xml
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.dll
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.pdb
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.csprojAssemblyReference.cache
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.csproj.CoreCompileInputs.cache
+E:\1 Study folder3\Git\Online-Bus-Ticket-Management\BTMRepository\obj\Debug\BTMRepository.csproj.CopyComplete
